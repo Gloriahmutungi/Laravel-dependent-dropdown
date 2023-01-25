@@ -26,7 +26,7 @@
                        <h4>Dynamic Dependent</h4>
                     </div> 
                     <div class="col-md-3 mb-3 text-end">
-                       <strong class="col-md-5 p-0 m-0 text-end"  style="color: #008B8B">NiceSnippets.com</strong>
+                       <strong class="col-md-5 p-0 m-0 text-end"  style="color: #008B8B">Codelabs KE</strong>
                     </div>
                 </div>
                 <form>
